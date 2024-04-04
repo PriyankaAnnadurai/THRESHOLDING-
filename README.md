@@ -213,7 +213,7 @@ plt.axis('off')
 <br>
 <br>
 
-![Uploading image.png…]()
+![image](https://github.com/PriyankaAnnadurai/THRESHOLDING-/assets/118351569/ba8eab62-08de-4f28-a94f-a9d484adff83)
 
 
 <br>
