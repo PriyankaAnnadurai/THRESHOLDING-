@@ -179,10 +179,20 @@ plt.axis('off')
 <br>
 <br>
 
-![image](https://github.com/PriyankaAnnadurai/THRESHOLDING-/assets/118351569/14bf45ba-b416-4a99-a29d-aa0186231e8e)
+![image](https://github.com/PriyankaAnnadurai/THRESHOLDING-/assets/118351569/0f35fcd3-bda6-46ec-b123-58b2d49f098d)
+
 
 <br>
 <br>
+### Gray Image
+<br>
+<br>
+
+![image](https://github.com/PriyankaAnnadurai/THRESHOLDING-/assets/118351569/b968b901-900a-4adf-999d-549bbeb2bd6e)
+
+<br>
+<br>
+
 
 ### Global Thresholding
 <br>
