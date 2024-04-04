@@ -188,6 +188,8 @@ plt.axis('off')
 <br>
 <br>
 
+![image](https://github.com/PriyankaAnnadurai/THRESHOLDING-/assets/118351569/a30f26ec-5415-4ca5-96ee-9ae10c29564b)
+
 ![image](https://github.com/PriyankaAnnadurai/THRESHOLDING-/assets/118351569/1095942f-2241-4a5d-bd20-91e4b54c79af)
 
 ![image](https://github.com/PriyankaAnnadurai/THRESHOLDING-/assets/118351569/786cbf64-fdd1-47fc-b460-2c3b085a8eaa)
